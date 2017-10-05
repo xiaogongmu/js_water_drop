@@ -3,7 +3,7 @@
 >A background of website of canvas
 
 
-##usage
+## usage
 
 This depends on JQuery.
 Insert the code below `<body>` and `</body>`
@@ -12,5 +12,5 @@ Insert the code below `<body>` and `</body>`
 
 ```
 
-##config
+## config
 *	`opacity_W` : the apactity if line (0-1) , default: `0.7`
