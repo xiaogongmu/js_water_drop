@@ -16,9 +16,10 @@ var drop_water = Array();
 var drop_water_exist = Array();
 
 var body = $('body');
-body.css('margin','0px');
+body.css('margin','0px').css('padding','0px');
 body.append('<canvas id="canvas_water" ></canvas>');
 x_b = $('#canvas_water');
+x_b.css('position','fixed').css('top','0px').css('left','0px').css('z-index','-10');
 x_b.attr('width', window_width);
 x_b.attr('height', window_height);
 
