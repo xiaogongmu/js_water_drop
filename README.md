@@ -5,7 +5,7 @@
 
 ## usage
 
-This depends on JQuery
+This depends on JQuery<br>
 Insert the code below `<body>` and `</body>`
 ```html
 <script src="canvas_waterDrop.js"></script>
